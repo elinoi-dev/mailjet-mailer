@@ -1,5 +1,5 @@
 {
-    "name": "elinoi/mailjet-mailer",
+    "name": "elinoi-dev/mailjet-mailer",
     "type": "symfony-mailer-bridge",
     "description": "Symfony Mailjet Mailer Bridge",
     "keywords": [],
